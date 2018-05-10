@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package equip;
+//package equip;
 
 /**
  *
@@ -12,6 +12,10 @@ package equip;
 public class Cercle {
 private float x;
 private float y;
+
+public static void main(String[] args) {
+  Cercle a,b  = new Cercle();  
+}
 
 public Cercle(){
     this.x=1;
